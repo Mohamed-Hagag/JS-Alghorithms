@@ -1,4 +1,4 @@
-window.alert("Open consloe");
+window.alert("Open console");
 
 
 function printFullName(firstName, lastName) {
