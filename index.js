@@ -1,4 +1,4 @@
-
+window.alert("Open consloe");
 
 
 function printFullName(firstName, lastName) {
